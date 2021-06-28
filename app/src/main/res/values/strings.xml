@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WiFi hacker</string>
+    <string name="WybierzSiec">Proszę wybrać sieć WiFi z którą chcesz się połączyć</string>
+    <string name="przykladowa_siec">Przykładowa sieć</string>
+    <string name="Wybierz_plik">Wybierz plik z przykładowymi hasłami</string>
+    <string name="start">START</string>
+</resources>
