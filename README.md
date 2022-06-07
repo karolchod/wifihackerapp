@@ -28,6 +28,8 @@ Dictionary attack consists of authentication attempts using previously generated
 (see details in docs: https://developer.android.com/reference/android/net/wifi/SupplicantState)
 * show found correct password and save network in device settings
 
+Project was completed in June 2021. Plans for further development are mostly better UI design, refactor and English translation.
+
 ## Technologies
 Project is created with:
 * Kotlin language
